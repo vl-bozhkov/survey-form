@@ -1,8 +1,26 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
 #jumbotron-custom {
-  background: #0984e3;
+  background: #2d3436;
   color: #fff;
 }
 
 #submit {
-  background: #0984e3;
+  background: #2d3436;
+}
+
+footer {
+  background: #2d3436;
+  padding: 3px 0;
+}
+
+#footer-text {
+  color: #fff;
+}
+
+i {
+  font-size: 200%;
+  color: red;
 }
